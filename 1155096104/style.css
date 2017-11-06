@@ -1,0 +1,202 @@
+@charset "UTF-8";
+
+html, head, body, header, main, section, article, footer, 
+ul, li, table, tr, td, span, h1, h2, h3, h4, p {
+	padding: 0;
+	margin: 0;
+}
+
+header, section, article, footer {
+	display: block;
+}
+
+body {
+	 min-width: 1600px;
+}
+
+header {
+	background-color: #1F9677;  
+}
+
+.Photo1 {
+	display: inline-block; 
+    vertical-align: middle;
+}
+
+.section1 {
+	position: relative;
+	color: white;
+	display: inline-block; 
+	vertical-align: middle;
+	margin-left: 210px;
+	margin-top: 80px;
+}
+
+.p1 {
+	font-family: Century Gothic;
+	margin-top: 45px;
+    font-size: 23px
+}
+
+.section2 {
+	color: white;
+	background-color: #487192;
+	padding-bottom: 153px;
+}
+
+.article1 {
+	margin: 70px 71px 0 38px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.p2 {
+	margin-top: 12px;
+	font-family: Century Gothic;
+	width: 701px;
+	font-size: 20px
+}
+
+.Photo2 {
+	position: absolute;
+	margin: 0px 0px 0px 0;
+    float: right;
+    display: inline-block; 
+	vertical-align: middle;
+}
+
+.section3 {
+	color: white;
+	background-color: #996CAF;
+}
+
+.Photo3 {
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.article2 {
+	margin: 0 55px 95px 68px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.p3 {
+	margin-top: 12px;
+	font-family: Century Gothic;
+	width: 500px;
+	font-size: 20px;
+}
+
+.p4 {
+	margin: 80px 56px 100px 55px;
+	font-family: Century Gothic;
+	width: 700px;
+	font-size: 20px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.Photo4 {
+	display: inline-block; 
+	vertical-align: middle;
+	position: absolute;
+	margin: 0px 0px 0px 0;
+    float: right;
+}
+
+.section4 {
+	color: white;
+	background-color: #62DEAB;
+}
+
+.Photo5 {
+    display: inline-block; 
+	vertical-align: middle;
+}
+
+.article3 {
+	margin: 0 55px 0 27px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.p5 {
+	margin-top: 12px;
+	font-family: Century Gothic;
+	width: 570px;
+	font-size: 20px;
+}
+
+.section5 {
+	color: white;
+	background-color: #62DEAB;
+}
+
+.article4 {
+	margin: 50px 128px 199px 128px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.p6 {
+	margin-top: 18px;
+	font-family: Century Gothic;
+	width: 550px;
+	font-size: 20px;
+}
+
+.Photo6 {
+    display: inline-block; 
+	vertical-align: middle;
+}
+ 
+.section6 {
+	color: white;
+	background-color: #F28A97;
+}
+
+.Photo7 {
+    display: inline-block; 
+	vertical-align: middle;
+}
+
+.article5 {
+	margin: 0 55px 0 35px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.p7 {
+	margin-top: 12px;
+	font-family: Century Gothic;
+	width: 556px;
+	font-size: 20px;
+}
+
+.section7 {
+	color: white;
+	background-color: #F28A97;
+}
+
+.Photo8 {
+    display: inline-block; 
+	vertical-align: middle;
+}
+
+.ul1 {
+	margin: 19px 89px 11px 88px;
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+.li1 {
+	margin-top: 8px;
+	font-family: Century Gothic;
+	width: 630px;
+	font-size: 20px;
+}
+
+.s1 {
+	font-style: italic;
+}
